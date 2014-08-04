@@ -9,5 +9,5 @@ https://paullo.shinyapps.io/develope_data_product/
 
 Documentation (slidify):
 =========
-http://paullo0106.github.io/paulSlidify/
-http://github.com/paullo0106/slidify
+* http://paullo0106.github.io/paulSlidify/
+* http://github.com/paullo0106/slidify
